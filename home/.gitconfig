@@ -1,1 +1,29 @@
-/Users/tachibana/dotfiles/git/.gitconfig
+[user]
+	email = deadzone@be.to
+	name = Kenichi Tachibana
+[push]
+	default = upstream
+[color]
+	ui = true
+[core]
+	editor = emacs
+	precomposeunicode = true
+	quotepath = false
+[alias]
+	d = diff
+	dh = diff HEAD
+	ds = diff --staged
+	st = status
+	coam = commit -am
+	co = checkout
+	gr = grep
+	b = branch
+	cam = commit -am
+	f = fetch
+	c = commit
+	ca = commit -a
+	cm = commit -m
+	l = log
+	lp = log -p
+	aa = add -A
+	dcw = diff --color-words

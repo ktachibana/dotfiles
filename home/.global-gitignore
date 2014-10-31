@@ -1,1 +1,14 @@
-/Users/tachibana/dotfiles/git/.gitignore
+.idea
+*.log
+.log_level
+.DS_Store
+.powenv
+.powrc
+.powconfig
+.rvmrc
+tmp/
+.ruby-version
+.ruby-gemset
+.envrc
+vendor/bundle
+bundle_bin
