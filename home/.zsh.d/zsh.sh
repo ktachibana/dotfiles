@@ -18,3 +18,8 @@ autoload -U compinit
 compinit
 
 zstyle ':completion:*' list-colors 'no=00' 'fi=00' 'di=00;34' 'ln=01;36' 'pi=40;33' 'so=40;33' 'bd=40;33' 'cd=40;33' 'ex=01;31' 'or=04;36' '*.tgz=01;32' '*.gz=01;32' '*.tar=01;32'
+
+autoload -Uz select-word-style
+select-word-style default
+zstyle ':zle:*' word-chars " _-./;:@"
+zstyle ':zle:*' word-style unspecified
