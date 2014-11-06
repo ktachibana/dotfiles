@@ -9,6 +9,7 @@
 	editor = emacs
 	precomposeunicode = true
 	quotepath = false
+	excludesfile = ~/.global-gitignore
 [alias]
 	d = diff
 	dh = diff HEAD
