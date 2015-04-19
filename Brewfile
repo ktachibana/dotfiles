@@ -22,10 +22,10 @@ cask 'bettertouchtool'
 cask 'dash'
 
 tap 'caskroom/homebrew-versions'
-cask 'firiefox-ja'
+cask 'firefox-ja'
 
 cask 'go2shell'
-cask 'growl'
+cask 'growlnotify'
 cask 'iterm2'
 cask 'parallels-desktop'
 cask 'the-unarchiver'
