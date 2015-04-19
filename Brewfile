@@ -14,3 +14,20 @@ brew 'pow'
 brew 'zsh'
 brew 'graphviz'
 brew 'mysql'
+
+brew 'caskroom/cask/brew-cask'
+
+cask 'alfred'
+cask 'bettertouchtool'
+cask 'dash'
+
+tap 'caskroom/homebrew-versions'
+cask 'firiefox-ja'
+
+cask 'go2shell'
+cask 'growl'
+cask 'iterm2'
+cask 'parallels-desktop'
+cask 'the-unarchiver'
+cask 'slack'
+cask 'rubymine'

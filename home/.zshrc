@@ -11,6 +11,7 @@ source ~/.zsh.d/zsh.sh
 source ~/.zsh.d/terminal-title.sh
 source ~/.zsh.d/alias.sh
 source ~/.zsh.d/direnv.sh
+source ~/.zsh.d/homebrew-cask.sh
 
 source ~/.zsh.d/heroku.sh
 source ~/.zsh.d/nodebrew.sh
