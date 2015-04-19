@@ -13,5 +13,5 @@ source ~/.zsh.d/alias.sh
 source ~/.zsh.d/direnv.sh
 
 source ~/.zsh.d/heroku.sh
-source ~/.zsh.d/nvm.sh
+source ~/.zsh.d/nodebrew.sh
 source ~/.zsh.d/rbenv.sh
