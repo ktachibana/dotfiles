@@ -16,3 +16,5 @@ source ~/.zsh.d/homebrew-cask.sh
 source ~/.zsh.d/heroku.sh
 source ~/.zsh.d/nodebrew.sh
 source ~/.zsh.d/rbenv.sh
+
+[ -f ~/.zsh.d/local.sh ] && source ~/.zsh.d/local.sh
