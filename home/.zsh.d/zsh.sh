@@ -6,6 +6,7 @@ setopt extended_history hist_ignore_dups hist_ignore_space prompt_subst
 setopt pushd_ignore_dups rm_star_silent sun_keyboard_hack
 setopt extended_glob list_types no_beep always_last_prompt
 setopt cdable_vars auto_param_keys
+unsetopt share_history
 
 # ほか設定
 HISTFILE=~/.zsh_history
