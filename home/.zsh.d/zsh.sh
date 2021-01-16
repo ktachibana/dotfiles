@@ -22,5 +22,5 @@ zstyle ':completion:*' list-colors 'no=00' 'fi=00' 'di=00;34' 'ln=01;36' 'pi=40;
 
 autoload -Uz select-word-style
 select-word-style default
-zstyle ':zle:*' word-chars " _-./;:@"
+zstyle ':zle:*' word-chars " _-.,/;:@={}()"
 zstyle ':zle:*' word-style unspecified
